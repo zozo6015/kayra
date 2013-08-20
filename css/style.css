@@ -1,0 +1,61 @@
+/* Forces scrollbars so centered pages don't shift */
+html { height: 100%; margin-bottom: 1px; }
+
+#bottom {
+	
+	background-color : #ddd;
+	color : #ddd;
+	width : 100%;
+	
+}
+
+#container {
+	position : absolute;
+	left : 10%;
+	
+	float : left;
+	width : 858px;
+	
+}
+
+#nav {
+	border-bottom : 1px solid #ddd;
+	padding-top : 1em;
+}
+
+.button {
+
+}
+
+a {
+	outline: none !important; /* @ Firefox, remove ugly dotted border */
+ }
+ 
+a.button {
+	text-decoration : none;
+}
+
+
+a.button:hover {
+	
+	
+}
+
+.display {
+	padding-top : 1em;
+}
+
+ 
+.display p {
+	margin: 0;
+	
+}
+ 
+.float-right {
+
+}
+ 
+blockquote {
+	padding:5px 0 5px 30px;
+}
+

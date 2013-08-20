@@ -1,0 +1,24 @@
+body{
+	background-repeat:no-repeat;
+	background-position:top center;
+	font-family: "Arial";
+	color:#D61D22;
+	font-weight:bold;
+	padding:0;
+	margin:0;
+	font-size:14px;
+}
+
+.text {
+	font-size:12px;
+	font-weight:bold;
+	color:#000444;
+	font-family: "Arial";
+
+}
+
+
+a:link {color:#866B3E;text-decoration:none;}
+a:visited {color:#866B3E;text-decoration:none;}
+a:hover {color:#CC0000;text-decoration:none;}
+a:active {color:#000000;text-decoration:none;}

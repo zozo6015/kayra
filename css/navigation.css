@@ -1,0 +1,45 @@
+/* CSS Document */
+ #navigation
+{
+	font-size:14px;
+	font-weight:bold;
+	color:#000444;
+	font-family: "Arial";
+}
+
+
+ #navigation a
+{
+	font-size:14px;
+	font-weight:bold;
+	color:#000444;
+	font-family: "Arial";
+}
+
+#navigation a span
+{
+
+}
+
+#navigation a, #navigation a span
+{
+display: block;
+float: left
+}
+
+/* Hide from IE5-Mac \*/
+#navigation a, #navigation a span
+{
+float: none
+}
+/* End hide */
+
+#navigation a:hover
+{
+color: #7189A3;
+}
+
+
+#navigation a:hover span
+{
+}
